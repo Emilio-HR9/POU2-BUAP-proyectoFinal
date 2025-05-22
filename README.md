@@ -5,3 +5,6 @@ Para utilizar esta interfaz se necesita primero descargar ya sea proyectofinal.j
 Empezar por registrar un administrador si no se ha registrado uno.
 
 Una vez se haya iniciado sesión se pueden tomar las opciones mostradas en el menú gráfico.
+
+# Guardado de variables
+Los usuarios administradores y empleados registrados se almacenan en un archivo .txt para cada tipo de variable (usuarios, y empleados respectivamente) 
